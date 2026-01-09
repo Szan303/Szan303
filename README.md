@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,linux,python,cs,bash,dotnet,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,linux,python,cs,java,bash,dotnet,cpp)](https://skillicons.dev)
 <!--
 **Szan303/Szan303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
